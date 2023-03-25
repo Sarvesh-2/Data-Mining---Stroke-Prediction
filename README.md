@@ -1,1 +1,1 @@
-# Data-Mining---Stroke-Prediction
+# Data-Mining-Stroke-Prediction
